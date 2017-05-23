@@ -1,13 +1,19 @@
 body {
-	background: orange;
+	background: #FFFFFF;
 	color:#000;
 	font-family: sans-serif;
 }
 
 h1, h2{
-	background: purple;
+	background: #FFFFFF;
 }
 
 a{
 	color: blue;
+}
+
+nav {
+	color: black;
+	background-color: white;
+
 }
